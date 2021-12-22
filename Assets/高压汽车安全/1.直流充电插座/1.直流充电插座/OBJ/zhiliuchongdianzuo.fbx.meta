@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 82f18cf415dea89468ec7cf1b3806847
+timeCreated: 1628492359
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: Tube001
+    100004: Tube003
+    100006: Tube004
+    100008: Tube005
+    100010: Tube006
+    100012: Tube009
+    100014: Tube010
+    100016: Tube011
+    100018: Tube014
+    100020: Tube015
+    100022: Tube016
+    100024: Tube017
+    100026: Tube018
+    100028: Tube019
+    100030: Tube020
+    100032: Tube021
+    100034: Tube022
+    100036: Tube023
+    100038: //RootNode
+    400000: Circle001
+    400002: Tube001
+    400004: Tube003
+    400006: Tube004
+    400008: Tube005
+    400010: Tube006
+    400012: Tube009
+    400014: Tube010
+    400016: Tube011
+    400018: Tube014
+    400020: Tube015
+    400022: Tube016
+    400024: Tube017
+    400026: Tube018
+    400028: Tube019
+    400030: Tube020
+    400032: Tube021
+    400034: Tube022
+    400036: Tube023
+    400038: //RootNode
+    2300000: Circle001
+    2300002: Tube001
+    2300004: Tube003
+    2300006: Tube004
+    2300008: Tube005
+    2300010: Tube006
+    2300012: Tube009
+    2300014: Tube010
+    2300016: Tube011
+    2300018: Tube014
+    2300020: Tube015
+    2300022: Tube016
+    2300024: Tube017
+    2300026: Tube018
+    2300028: Tube019
+    2300030: Tube020
+    2300032: Tube021
+    2300034: Tube022
+    2300036: Tube023
+    3300000: Circle001
+    3300002: Tube001
+    3300004: Tube003
+    3300006: Tube004
+    3300008: Tube005
+    3300010: Tube006
+    3300012: Tube009
+    3300014: Tube010
+    3300016: Tube011
+    3300018: Tube014
+    3300020: Tube015
+    3300022: Tube016
+    3300024: Tube017
+    3300026: Tube018
+    3300028: Tube019
+    3300030: Tube020
+    3300032: Tube021
+    3300034: Tube022
+    3300036: Tube023
+    4300000: Tube001
+    4300002: Circle001
+    4300004: Tube003
+    4300006: Tube004
+    4300008: Tube005
+    4300010: Tube006
+    4300012: Tube009
+    4300014: Tube010
+    4300016: Tube011
+    4300018: Tube014
+    4300020: Tube015
+    4300022: Tube016
+    4300024: Tube017
+    4300026: Tube018
+    4300028: Tube019
+    4300030: Tube020
+    4300032: Tube021
+    4300034: Tube022
+    4300036: Tube023
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 4f3871c417c27674f83678b1dc7b2675, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

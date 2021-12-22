@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 45941f75fdd31bc4c8012108fe0eb1e8
+timeCreated: 1569654716
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Active Info Display zuheyibiao00
+    100004: Active Info Display zuheyibiao01
+    100006: Active Info Display zuheyibiao02
+    100008: Active Info Display zuheyibiao03
+    100010: Active Info Display zuheyibiao04
+    100012: Active Info Display zuheyibiao05
+    100014: Active Info Display zuheyibiao06
+    100016: Active Info Display zuheyibiao07
+    100018: Active Info Display zuheyibiao08
+    100020: Box001
+    400000: //RootNode
+    400002: Active Info Display zuheyibiao00
+    400004: Active Info Display zuheyibiao01
+    400006: Active Info Display zuheyibiao02
+    400008: Active Info Display zuheyibiao03
+    400010: Active Info Display zuheyibiao04
+    400012: Active Info Display zuheyibiao05
+    400014: Active Info Display zuheyibiao06
+    400016: Active Info Display zuheyibiao07
+    400018: Active Info Display zuheyibiao08
+    400020: Box001
+    2300000: Active Info Display zuheyibiao00
+    2300002: Active Info Display zuheyibiao01
+    2300004: Active Info Display zuheyibiao02
+    2300006: Active Info Display zuheyibiao03
+    2300008: Active Info Display zuheyibiao04
+    2300010: Active Info Display zuheyibiao05
+    2300012: Active Info Display zuheyibiao06
+    2300014: Active Info Display zuheyibiao07
+    2300016: Active Info Display zuheyibiao08
+    2300018: Box001
+    3300000: Active Info Display zuheyibiao00
+    3300002: Active Info Display zuheyibiao01
+    3300004: Active Info Display zuheyibiao02
+    3300006: Active Info Display zuheyibiao03
+    3300008: Active Info Display zuheyibiao04
+    3300010: Active Info Display zuheyibiao05
+    3300012: Active Info Display zuheyibiao06
+    3300014: Active Info Display zuheyibiao07
+    3300016: Active Info Display zuheyibiao08
+    3300018: Box001
+    4300000: Active Info Display zuheyibiao00
+    4300002: Active Info Display zuheyibiao01
+    4300004: Active Info Display zuheyibiao02
+    4300006: Active Info Display zuheyibiao03
+    4300008: Active Info Display zuheyibiao04
+    4300010: Active Info Display zuheyibiao06
+    4300012: Active Info Display zuheyibiao05
+    4300014: Active Info Display zuheyibiao07
+    4300016: Active Info Display zuheyibiao08
+    4300018: Box001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 2ee8611d69e0e8147861dd6e2479eb13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _tianchuangdianji_polySurface16SG
+    second: {fileID: 2100000, guid: b97d28c66fc0f934bb1d984efa4e0d50, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
