@@ -20,19 +20,19 @@ public class Login : MonoBehaviour
     {
         if (string.IsNullOrEmpty(account.text) || string.IsNullOrEmpty(password.text))
         {
-            msg.text = "ÇëÊäÈëÕËºÅºÍÃÜÂë";
+            msg.text = "è¯·è¾“å…¥è´¦å·å’Œå¯†ç ";
         }
         else
         {
-            if (account.text != "admin" && password.text != "admin")
+            if (account.text != "admin" || password.text != "admin")
             {
                 msg.color = UnityEngine.Color.red;
-                msg.text = "µÇÂ¼Ê§°ÜÇë¼ì²éÕËºÅ»òÃÜÂë";
+                msg.text = "ç™»å½•å¤±è´¥è¯·æ£€æŸ¥è´¦å·æˆ–å¯†ç ";
             }
             else
             {
                 msg.color = UnityEngine.Color.green;
-                msg.text = "µÇÂ¼³É¹¦£¡3ÃëºóÌø×ª...";
+                msg.text = "ç™»å½•æˆåŠŸï¼3ç§’åè·³è½¬...";
                 Invoke("ChangeScene", 3);
             }
         }

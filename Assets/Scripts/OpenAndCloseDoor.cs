@@ -21,16 +21,23 @@ public class OpenAndCloseDoor : MonoBehaviour
     {
         if (transform.name == "LeftDoor")
         {
+            Material me = gameObject.GetComponent<MeshRenderer>().material;
+            print(me);
+            var find1 = GameObject.Find("GameObject");
+            // GameObject
+            if (find1)
+            {
+                var meshRenderer = find1.GetComponentsInChildren<MeshRenderer>();
+                foreach (var meshRenderer1 in meshRenderer)
+                {
+                    // print(meshRenderer1);
+                    meshRenderer1.material = Resources.Load("touming_blue") as Material;
+                }
+            }
+
+            gameObject.GetComponent<MeshRenderer>().material = me;
             transform.Rotate(0, 0, m_IsLeftOpen ? -70 : 70);
             m_IsLeftOpen = !m_IsLeftOpen;
-            var find1 = GameObject.Find("ЭтЪЮ");
-            // GameObject
-            var meshRenderer = find1.GetComponentsInChildren<MeshRenderer>();
-            foreach (var meshRenderer1 in meshRenderer)
-            {
-                print(meshRenderer1);
-                meshRenderer1.material = Resources.Load("20 - Defaultsds") as Material;
-            }
         }
         else
         {
